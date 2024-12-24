@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795689665735",
+    "project_id": "flutter-app-kariangau",
+    "storage_bucket": "flutter-app-kariangau.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795689665735:android:19f71e795c1ef5f19deae2",
+        "android_client_info": {
+          "package_name": "com.example.papb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdhsgPelHYXb18nB6zSMS1LCVNYTgGIaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
